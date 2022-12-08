@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Tyler Vistaunet's Resume
 ---
 # Tyler Vistaunet
